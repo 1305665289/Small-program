@@ -1,6 +1,0 @@
-<!--index.wxml-->
-<view class="container">
-  <view wx:for="{{prituces}}" wx:key="key">
-    <image src="{{item}}"></image>
-  </view>
-</view>
